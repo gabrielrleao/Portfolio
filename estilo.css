@@ -158,11 +158,71 @@ nav {
     font-size: 12px;
 }
 
-.container3 {
+.projeto1 {
     padding: 8%;
     color: white;
-    line-height: 4.5em; 
+    line-height: 4.5em;
+    float: left;
+    width: 36%;
+    font-family: arial;   
 }
+
+.txt1, .txt2 {
+    line-height: 2.5em;
+}
+
+.txtpro1, .txtpro2 {
+    color: rgb(142, 128, 155);
+}
+
+.btn1 {
+    background: rgb(142, 128, 155);
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    border: none;
+    box-shadow: 4px 4px 0px black;
+    cursor: pointer;
+    font-size: 18px;
+    align-items: center;
+
+}    
+.btn1:hover {
+    transform: scale(1.05);
+}
+
+h2, h3 {
+    line-height: 1.5em;  
+}
+.luaft {
+    border:2px solid rgb(142, 128, 155) ;
+}
+
+.luaft:hover {
+    transform: scale(1.05);
+}
+
+.projeto2 {
+    padding-top: 222px;
+    color: white;
+    line-height: 4.5em;
+    float: left;
+    width: 36%;
+    font-family: arial;   
+}
+
+.btn1 {
+    background: rgb(142, 128, 155);
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    border: none;
+    box-shadow: 4px 4px 0px black;
+    cursor: pointer;
+    font-size: 18px;
+    align-items: center;
+
+}    
+.btn1:hover {
+    transform: scale(1.05);
+}
+
 h2, h3 {
     line-height: 1.5em;  
 }
